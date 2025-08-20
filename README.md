@@ -50,7 +50,7 @@ npm run build
 ### Phase 1: Foundation
 - [x] Project structure
 - [x] Git repository setup
-- [ ] Vite + React + TypeScript setup
+- [x] Vite + React + TypeScript setup
 - [ ] Firebase configuration
 - [ ] Authentication
 - [ ] Routing
@@ -78,9 +78,9 @@ But with modern React patterns and improved UX.
 
 ## 📚 Documentation
 
-- [Migration Plan](docs/MIGRATION_PLAN.md)
-- [Development Guide](docs/CLAUDE.md)
-- [Moving Directory](docs/MOVING_DIRECTORY_NOTES.md)
+- [Migration Plan](MIGRATION_PLAN.md)
+- [Development Guide](CLAUDE.md)
+- [Moving Directory](MOVING_DIRECTORY_NOTES.md)
 
 ## 🚀 Deployment
 
